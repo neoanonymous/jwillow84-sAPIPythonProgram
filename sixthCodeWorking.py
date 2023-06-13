@@ -12,6 +12,8 @@ logger = logging.getLogger(__name__)
 This file contains examples of simple data requests to BetConnect
 """
 
+NEXT_SCAN = 3 # Change this number to change the interval at which the next scan happens in seconds
+
 # Get today's date
 today = date.today()
 
@@ -135,7 +137,7 @@ def run_script():
 
         # Sleep for a certain duration before running the script again
         # Adjust the sleep duration as per your requirement
-        time.sleep(3)  # Sleep for 5 seconds
+        time.sleep(NEXT_SCAN)  # Sleep for 5 seconds
         print("Iteration:", iteration)
         iteration += 1
 
