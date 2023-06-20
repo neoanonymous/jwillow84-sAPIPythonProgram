@@ -1,0 +1,20 @@
+-Bet added-
+Sport: Football
+Competition name: Australia National Premier League Victoria
+Region name: Australia
+Market: Match Result
+Name: Melbourne Knights
+Playing against: 100384
+Time: 2023-06-24 09:15:00+01:00
+Pricing: 1.909
+Stake: 500.0
+Sport ID: 10
+Fixture name: Altona Magic SC v Melbourne Knights
+Fixture ID: 9899285
+Market type ID: 2
+Liability: 454.55
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+

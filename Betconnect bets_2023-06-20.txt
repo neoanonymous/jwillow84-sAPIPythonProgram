@@ -1,0 +1,181 @@
+Script thread started
+Date: 2023-06-20
+Time: 11:47:48
+Script thread started
+********************************************************************************
+Account login successful
+Account preferences updated
+Account preferences updated
+Updated user account balance
+Updated user account balance
+Date: 2023-06-20
+Time: 11:50:26
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: WTA Birmingham
+Region name: England
+Market: Match Result
+Name: Ostapenko, J
+Playing against: 723266
+Time: 2023-06-20 13:05:00+01:00
+Pricing: 1.333
+Stake: 36.0
+Sport ID: 24
+Fixture name: Noskova, L v Ostapenko, J
+Fixture ID: 10234925
+Market type ID: 322
+Liability: 12.0
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: False
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: ATP London
+Region name: England
+Market: Game Handicap
+Name: Alcaraz, C -4.5
+Playing against: 1111013
+Time: 2023-06-20 14:10:00+01:00
+Pricing: 1.95
+Stake: 36.0
+Sport ID: 24
+Fixture name: Alcaraz, C v Rinderknech, A
+Fixture ID: 10238934
+Market type ID: 311
+Liability: 34.2
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Football
+Competition name: European Championship Qualification
+Region name: Europe
+Market: Match Result
+Name: Belgium
+Playing against: 93933
+Time: 2023-06-20 19:45:00+01:00
+Pricing: 1.286
+Stake: 29.0
+Sport ID: 10
+Fixture name: Estonia v Belgium
+Fixture ID: 9750939
+Market type ID: 2
+Liability: 8.29
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: Ilkley Trophy
+Region name: Great Britain and Northern Ireland
+Market: Total Games Over/Under
+Name: Over 22.5
+Playing against: Over
+Time: 2023-06-20 14:05:00+01:00
+Pricing: 1.85
+Stake: 500.0
+Sport ID: 24
+Fixture name: Bellucci, M v Klein, L
+Fixture ID: 10233595
+Market type ID: 6481
+Liability: 425.0
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Football
+Competition name: European Championship U21 Qualification
+Region name: Europe
+Market: Draw No Bet
+Name: Kosovo U21
+Playing against: 747018
+Time: 2023-06-20 19:00:00+01:00
+Pricing: 1.05
+Stake: 2650.0
+Sport ID: 10
+Fixture name: Kosovo U21 v Estonia U21
+Fixture ID: 10009355
+Market type ID: 122
+Liability: 132.5
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+
+Number of bets available total: 1
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: ATP Halle
+Region name: Germany
+Market: Total Games Over/Under
+Name: Over 22.5
+Playing against: Over
+Time: 2023-06-20 15:00:00+01:00
+Pricing: 2.05
+Stake: 656.0
+Sport ID: 24
+Fixture name: Griekspoor, T v Carballes Baena, R
+Fixture ID: 10234387
+Market type ID: 6481
+Liability: 688.8
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: False
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: ATP Halle
+Region name: Germany
+Market: Total Games Over/Under
+Name: Over 23.5
+Playing against: Over
+Time: 2023-06-20 16:55:00+01:00
+Pricing: 1.85
+Stake: 348.0
+Sport ID: 24
+Fixture name: Coric, B v Bublik, A
+Fixture ID: 10234389
+Market type ID: 6481
+Liability: 295.8
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: True
+
+
+Number of bets available total: 1
+-Bet added-
+Sport: Tennis
+Competition name: Ilkley Trophy
+Region name: Great Britain and Northern Ireland
+Market: Total Games Over/Under
+Name: Over 23.5
+Playing against: Over
+Time: 2023-06-20 15:15:00+01:00
+Pricing: 1.909
+Stake: 248.0
+Sport ID: 24
+Fixture name: Virtanen, O v Ofner, S
+Fixture ID: 10233587
+Market type ID: 6481
+Liability: 225.45
+Locked stake: 0.0
+Others viewing bet: 5
+Lockable: False
+
+
