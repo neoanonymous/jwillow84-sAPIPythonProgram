@@ -40,7 +40,7 @@ async def initialize_client():
     global client
     client = betconnect.APIClient(
         username='jwillow84',
-        password='Qwerty123!',
+        password='Qwerty1234!',
         api_key='5e82fede-91c2-493b-9209-c9cc133ec5ab',
         personalised_production_url='https://jwillow84.betconnect.com/'
     )
